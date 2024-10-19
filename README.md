@@ -1,5 +1,5 @@
 
-# Oktopost Submission
+# Oktopost Assignment
 
 This repository contains the complete submission for the Oktopost technical assignment.
 
